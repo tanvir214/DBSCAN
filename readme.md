@@ -18,10 +18,10 @@ Finding density-based clustering based on connected regions with high density.
 
 ### System Requirements:
 
-Processor: Intel Core I5 Processor Or Equivalent. (Preferable)
-RAM: 2GB RAM (4GB preferable)
-Operating System: Windows 7 to 10
-IDE Used: Jupyter Notebook and Google Colab
+1. Processor: Intel Core I5 Processor Or Equivalent. (Preferable )
+2. RAM: 2GB RAM (4GB preferable)
+3. Operating System: Windows 7 to 10
+4. IDE Used: Jupyter Notebook and Google Colab
 
 ### System Design:
 
