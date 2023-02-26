@@ -81,5 +81,3 @@ def dbscan(X,clusters,eps,minPts,metric=distance.euclidean):
 
 ![res](https://user-images.githubusercontent.com/38730778/221422144-4e4d523d-a704-44be-a7e1-7161b2da5d77.JPG)
 
-
-#anik
